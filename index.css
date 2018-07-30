@@ -1,0 +1,12 @@
+.panel {
+    width: 600px;
+    height: 400px;
+    background-color: #EEEEEE;
+    font-size: 30;
+    line-height: 400px;
+    text-align: center;
+}
+
+.center {
+    margin: 0 auto;
+}
